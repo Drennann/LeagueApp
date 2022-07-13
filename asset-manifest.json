@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LeagueApp/static/css/main.f6f490f5.css",
-    "main.js": "/LeagueApp/static/js/main.46871bed.js",
+    "main.js": "/LeagueApp/static/js/main.6e8057e8.js",
     "index.html": "/LeagueApp/index.html",
     "main.f6f490f5.css.map": "/LeagueApp/static/css/main.f6f490f5.css.map",
-    "main.46871bed.js.map": "/LeagueApp/static/js/main.46871bed.js.map"
+    "main.6e8057e8.js.map": "/LeagueApp/static/js/main.6e8057e8.js.map"
   },
   "entrypoints": [
     "static/css/main.f6f490f5.css",
-    "static/js/main.46871bed.js"
+    "static/js/main.6e8057e8.js"
   ]
 }
