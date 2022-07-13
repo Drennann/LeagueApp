@@ -1,0 +1,26 @@
+*{
+    z-index: 1;
+}
+
+#ChampionPage{
+    background-color: #121212;
+    opacity: 1;
+    height: calc(100vh - 92px);
+    width: 100vw;
+    background-size: cover;
+}
+
+.Filter{
+    opacity: 0.9;
+    background-color: #121212;
+    height: calc(100vh - 92px);
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    overflow: auto;
+}
+
+td{
+    padding: 15px;
+}

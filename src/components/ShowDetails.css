@@ -1,0 +1,10 @@
+table {
+    z-index: 2;
+    background-color: #212121;
+    opacity: 1;
+    color:#d0d0d0;
+    height: 50vh;
+    width: 50vw;
+    font-size: 15px;
+    border: 1px solid #414141;
+}

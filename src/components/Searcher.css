@@ -1,0 +1,25 @@
+.Searcher{
+    position:absolute;
+    top: 45vh;
+    left: 45vw;
+}
+input{
+    color:#d0d0d0;
+    background-color: #212121;
+    border-radius: 0%;
+    height: 40px;
+    width: 250px;
+    border: 1px solid #414141;
+}
+
+button{
+    color:#d0d0d0;
+    background-color: #212121;
+    border-radius: 0%;
+    height: 44px;
+    border: 1px solid #414141;
+}
+
+input:active{
+    border: 1px solid #414141;
+}

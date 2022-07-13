@@ -1,0 +1,14 @@
+.NotFound{
+    background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_2.jpg");
+    height: calc(100vh - 92px);
+    width: 100vw;
+    color: #d0d0d0;
+    background-size: cover;
+  }
+
+.Filter{
+    opacity: 0.9;
+    background-color: #121212;
+    height: calc(100vh - 92px);
+    width: 100vw;
+}

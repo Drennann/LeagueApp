@@ -1,0 +1,16 @@
+*{margin: 0}
+
+.NavBar{
+    background-color: #121212;
+    height: 89px;
+    border: 1px solid #414141;
+    list-style-type: none;
+    font-size: 44px;
+    text-decoration: none;
+}
+
+.liText{
+    color:#d0d0d0;
+    text-decoration: none;
+    margin-top: 15px;
+}

@@ -1,0 +1,16 @@
+*{margin: 0}
+
+.HomePage{
+    background-image: url("http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg");
+    height: calc(100vh - 92px);
+    width: 100vw;
+    color: #d0d0d0;
+    background-size: cover;
+  }
+
+.Filter{
+    opacity: 0.9;
+    background-color: #121212;
+    height: calc(100vh - 92px);
+    width: 100vw;
+}
